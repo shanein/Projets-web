@@ -148,7 +148,7 @@ $toto = 0;
 		</form>
 		</div>
 	</div>
-	<p>En cas de retard de paiment, le payeur s'engage à verser une indemnité forfaitaire pour frais de recouvrement due au créancier, conformément à l'article 121-ll de la loi n°2012-387 du 22 mars 2012, fixée au prix de 40€ par le décret n°2012-1115 du 2 octobre 2012.</p>
+	<p>En cas de retard de paiement, le payeur s'engage à verser une indemnité forfaitaire pour frais de recouvrement due au créancier, conformément à l'article 121-ll de la loi n°2012-387 du 22 mars 2012, fixée au prix de 40€ par le décret n°2012-1115 du 2 octobre 2012.</p>
 </main>
 <footer>
 	<div><a href="#">Statut juridique</a></div>
